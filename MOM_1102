@@ -1,0 +1,14 @@
+MOM: 
+
+1. download the extract from bbc website it can be a json or a csv 
+2. utils.py test the function 
+3. train.py : make the data as tuple : fixed and change the function accordingly
+4. requirements.txt also the version 
+5. understand predict.py
+6. rewrite dashboard.py code and also use the helper functions like utils.py instead of writing the same code again
+7. undertstand and explain line 68: keywords = [k.strip().lower() for k in finance_words.split(",") if k.strip()]
+8. write the dashboard.py code in ordinary for loop so its easy to understand
+9. playaround with pickle model 
+10. organize the repo 
+11. add hints for all the functions 
+12. add doc string at the start to inform what does this function do 
